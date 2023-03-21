@@ -1,1 +1,36 @@
 /* Suerte :-) */
+body {
+   
+}
+
+
+#hero-content a {
+    background-color: rgb(255, 251, 0);
+}
+
+#highlights p strong {
+    text-transform: uppercase;
+}
+
+#hero {
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+
+#hero-content {
+    top: 12em;
+}
+footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.destination .destination__spain {
+    color: red;
+}
+
+  #destinations li:nth-of-type(3) img {
+    border: 10px yellow dotted;
+  }
